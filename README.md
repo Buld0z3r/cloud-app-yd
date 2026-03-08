@@ -15,5 +15,6 @@ Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Servic
 * [x] **Artefakt 1:** Zaplanowano strukturę folderów i diagram C4 (dostępny w `/docs`).
 * [x] **Artefakt 2:** Konfiguracja środowiska Docker.
 * [x] **Artefakt 3:** Programowanie front-endu (React, Vite i komunikacja z API)
+* [x] **Artefakt 4:** Programowanie back-endu – REST API, baza danych i Docker
  
 > **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje 'Quick Start', opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).
