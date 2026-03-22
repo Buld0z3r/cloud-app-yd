@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5gkyUI0xTxE=",
+  "dgSpecHash": "xBT/08rYA2U=",
   "success": true,
-  "projectFilePath": "C:\\Users\\student-wroclaw\\Documents\\cloud-app-yd\\backend\\CloudBackend.csproj",
+  "projectFilePath": "C:\\cloud-app-yd\\backend\\CloudBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admstud\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\admstud\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
