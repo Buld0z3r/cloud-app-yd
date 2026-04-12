@@ -330,3 +330,9 @@ C:\cloud-app-yd\backend\obj\Release\net9.0\refint\CloudBackend.dll
 C:\cloud-app-yd\backend\obj\Release\net9.0\CloudBackend.pdb
 C:\cloud-app-yd\backend\obj\Release\net9.0\CloudBackend.genruntimeconfig.cache
 C:\cloud-app-yd\backend\obj\Release\net9.0\ref\CloudBackend.dll
+C:\cloud-app-yd\backend\bin\Release\net9.0\publish\appsettings.json
+C:\cloud-app-yd\backend\bin\Release\net9.0\publish\web.config
+C:\cloud-app-yd\backend\bin\Release\net9.0\publish\appsettings.Development.json
+C:\cloud-app-yd\backend\bin\Release\net9.0\publish\CloudBackend.deps.json
+C:\cloud-app-yd\backend\bin\Release\net9.0\publish\CloudBackend.runtimeconfig.json
+C:\cloud-app-yd\backend\bin\Release\net9.0\publish\CloudBackend.staticwebassets.endpoints.json
