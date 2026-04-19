@@ -19,5 +19,8 @@ Ten projekt został zaplanowany z myślą o usługach PaaS (Platform as a Servic
 * [x] **Artefakt 5:** Trwałość danych i profesjonalny kontrakt API (EF Migrations + DTO + UI Form)
 * [x] **Artefakt 6:** Aplikacja wdrożona w Azure
 * [x] **Artefakt 7:** Zabezpieczona aplikacja
+* [x] **Artefakt 8:** Dokumentacja techniczna API (Swager UI) dostępna publicznie.
+
+## Adres aplikacji: cloud-task-manager-frontend-95069-edacceaffjdta5hb.polandcentral-01.azurewebsites.net
  
 > **Informacja:** Ten plik będzie ewoluował. W kolejnych etapach dodamy tutaj sekcje 'Quick Start', opis zmiennych środowiskowych oraz instrukcję wdrożenia (CI/CD).

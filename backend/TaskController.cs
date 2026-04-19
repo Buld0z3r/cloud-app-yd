@@ -18,7 +18,12 @@ public class TasksController : ControllerBase
     {
         _context = context;
     }
-
+/// <summary>
+/// Pobiera wszystkie zadania z bazy danych, mapuje je na obiekty DTO i zwraca jako odpowiedź HTTP.
+/// Pobiera listę zadań z bazy Azure SQL.
+/// Metota wykorzystuje mechanizm ponawiania (Retry Logic) w przypadku uśpienia bazy.
+/// </summary>
+/// <returns></returns>
    [HttpGet]
    public async Task<ActionResult<IEnumerable<TaskReadDto>>> GetAll()
    {
